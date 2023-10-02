@@ -1,1 +1,11 @@
-
+{
+  "Summary": "Extra column on the page",
+  "Project": "Web",
+  "Environment": "test v.7-114",
+  "Severity": "Minor",
+  "Priority": "Low",
+  "Description": "There is an extra column on the page "List of users",
+  "Steps to reproduce": "1. Navigate to the page www.web.com", "2. Nsvigate to the page "List of users",
+  "Expected result": "The are 4 columns on the page",
+  "Actual result": "There are 5 columns on the page, the second ine is duplicated"
+}
